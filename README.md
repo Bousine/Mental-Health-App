@@ -1,5 +1,5 @@
 # CSE442-Mental-Health-Project
-
+Deployed on http://ubmentalhealth.herokuapp.com
 ## Project Details: 
 
 *Life Gamification / Mental Health Improvement*
